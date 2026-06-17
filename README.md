@@ -24,7 +24,7 @@ A RESTful API built with **FastAPI** for tracking personal expenses. Features JW
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/expense-tracker-api.git
+git clone https://github.com/rabbitego/expense-tracker-api.git
 cd expense-tracker-api
 
 # Create virtual environment
